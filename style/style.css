@@ -1,0 +1,114 @@
+body{
+    border: 5px solid black;
+    max-width: 800px;
+    margin: 10px auto;
+    
+    
+}
+.continer{
+    background-color: #E7E8D8;
+    background-image: -moz-linear-gradient(skyblue,lightskyblue);
+    padding: 5px;
+}
+
+.header1{
+    align-items: center;
+}
+.s3{
+    display: inline;
+    float: right;
+    flex-direction: column;
+}
+.s2{
+    float: center;
+    flex-direction: column;
+    align-items: center;
+}
+.s1{
+    display: inline;
+    float: left;
+    flex-direction: column;
+
+}
+.text{
+    max-width: auto;
+    margin: 0px auto;
+}
+.col-10{
+    padding-left: 30px;
+}
+.text3{
+    padding-left: 0px;
+}
+.text2{
+    padding-left: 0px;
+}
+.ta1{
+    text-align: center;
+}
+.t1{
+    margin: 0px 10px;
+    text-align: center;
+}
+.t1,.c1{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.t2{
+    margin: 10px;
+    text-align: center;
+}
+.t2,.c2{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.t3,.c2{
+    border-collapse: collapse;
+}
+.di input{
+    width: 100%;
+    height: 20px;
+    border: none;
+}
+.di1 input{
+    width: 100%;
+    height: 20px;
+    border: none;
+}
+.texttotal
+{
+    text-align: start;
+}
+.bottom{
+    text-align: center;
+}
+.datesign{
+    margin-top: 40px;
+}
+.sign{
+    display: inline;
+    float: right;
+    flex-direction: column;
+}
+.date{
+    display: inline;
+    float: left;
+    flex-direction: column;
+    padding-top: 50px;
+}
+.cc2{
+    text-align: left;
+}
+
+.btn{
+    background-color: grey;
+}
+.ct2{
+    font-size: x-small;
+}
+input{
+    background-color: #E7E8D8;
+}
+input:hover{
+    background-color: lightskyblue;
+}
