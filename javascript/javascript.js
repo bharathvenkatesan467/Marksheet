@@ -35,7 +35,7 @@ function total1(){
     document.getElementById("sum7").innerHTML=t7;
     document.getElementById("sum8").innerHTML=t8;
 
-    var sall=m1+m2+m3+m4+m5+p6+p7+p8;
+    var sall=t1+t2+t3+t4+t5+t6+t7+t8;
     var pec=sall/8;
     console.log(pec);
 
