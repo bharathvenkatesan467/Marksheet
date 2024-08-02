@@ -54,6 +54,12 @@ body{
     border: 1px solid black;
     border-collapse: collapse;
 }
+
+.c3{
+    border: 1px solid black ;
+    border-top: 2px solid black;
+    border-collapse: collapse;
+}
 .t2{
     margin: 10px;
     text-align: center;
